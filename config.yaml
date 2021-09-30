@@ -1,0 +1,9 @@
+config_app:
+  url_auth: "https://robot-dreams-de-api.herokuapp.com/auth"
+  url_connect: "https://robot-dreams-de-api.herokuapp.com/out_of_stock"
+  username: "rd_dreams"
+  password: "djT6LasE"
+  dates: 
+    - "2021-01-01"
+    - "2021-02-02"
+
